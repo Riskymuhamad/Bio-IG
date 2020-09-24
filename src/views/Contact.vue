@@ -1,0 +1,5 @@
+<template>
+  <div class="contact">
+    <h1>This is an about Contact</h1>
+  </div>
+</template>
