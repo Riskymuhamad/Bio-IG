@@ -1,6 +1,6 @@
 <template>
   <div class="footer">
-    <p>@riskymuhamad-Dev</p>
+    <p>&copy;Iky 2020</p>
   </div>
 </template>
 
@@ -17,5 +17,6 @@ export default {
 p {
   font-family: neucha;
   margin-top: 88px;
+  color: #000000;
 }
 </style>

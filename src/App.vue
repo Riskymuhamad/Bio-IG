@@ -37,16 +37,18 @@
 }
 
 #nav {
-  padding-top: 33px;
+  padding-top: 15px;
   font-family: neucha;
   font-size: 18px;
+  margin: auto;
 }
 
 #nav a {
+  margin: 25px;
   font-weight: bold;
-  color: #2c3e50;
+  color: #000000;
   text-decoration: none;
-  margin: 0 25px;
+  /* margin: 0 25px; */
 }
 
 #nav a.router-link-exact-active {
