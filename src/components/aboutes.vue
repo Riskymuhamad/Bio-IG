@@ -1,18 +1,23 @@
 <template>
   <div class="about">
-    <img class="profil" src="../assets/gambar/2.png" />
-    <h1>
-      Hi, <br />
-      I'am Risky Muhamad
-    </h1>
+    <div data-aos="fade-right">
+      <img class="profil" src="../assets/gambar/2.png" />
+    </div>
 
-    <p>
-      A young technology enthusiast,<br />
-      I am interested in the development of the<br />
-      Website and graphic design.
-    </p>
+    <div data-aos="fade-left">
+      <h1>
+        Hi, <br />
+        I'am Risky Muhamad
+      </h1>
 
-    <img class="kotak" src="../assets/gambar/3.png" />
+      <p>
+        A young technology enthusiast,<br />
+        I am interested in the development of the<br />
+        Website and graphic design.
+      </p>
+
+      <img class="kotak" src="../assets/gambar/3.png" />
+    </div>
   </div>
 </template>
 

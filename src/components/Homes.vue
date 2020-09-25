@@ -1,5 +1,5 @@
 <template>
-  <div class="hello">
+  <div class="hello" data-aos="zoom-in-up">
     <img alt="development" src="../assets/gambar/1.png" />
 
     <p>Thank you for visiting :)</p>
